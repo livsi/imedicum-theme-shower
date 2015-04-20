@@ -1,6 +1,6 @@
 {
-  "name": "shower-ribbon",
-  "version": "1.0.11",
+  "name": "imedicum-theme-shower",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "styles/screen.css",
   "ignore": [
@@ -17,7 +17,7 @@
   "keywords": [
     "shower",
     "presentation",
-    "ribbon",
+    "imedicum",
     "theme"
   ]
 }

@@ -151,6 +151,9 @@ a {
 		line-height:1;
 		font-family:'PT Mono', monospace;
 		}
+	.blue {
+	  color: $blue;
+	}
 	mark {
 		background:$yellow;
 		}
@@ -318,7 +321,7 @@ a {
 			width:100%;
 			text-align:center;
 			line-height:1;
-			font-size:150px;
+			font-size:100px;
 			transform:translateY(-50%);
 			a {
 				@include underline(currentColor, 0.11);
